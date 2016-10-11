@@ -4,6 +4,8 @@ Project 1
 
 Group members:
 
-Ada Lovelace adalovelace@csu.fullerton.edu
+Allison Villapando allisonmev@csu.fullerton.edu
 
-Charles Babbage charlesbab@csu.fullerton.edu
+James Liu james1997liu@csu.fullerton.edu
+
+Ryan Yan yunwei_yan95@csu.fullerton.edu
